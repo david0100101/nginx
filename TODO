@@ -1,0 +1,18 @@
+compile with debug symbols
+run in shell, prevent process detachment ?
+state of the stack at all time - investigate stack anatomy
+identify all possible functions that could be susceptible to any type of exploits,
+learn about their internal structure & system role (starting from printf)
+understand linux permission system in process context 
+create shellcode of different types
+
+modify code to create vulnerabilities
+stack overflow
+heap overflow: modify system files
+overflowing function pointers
+bss overflows ?
+
+PLT table ?
+GOT table ?
+
+history of nginx exploits from earliest versions
